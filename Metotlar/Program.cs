@@ -42,5 +42,7 @@ namespace Metotlar
             sepetManager.Ekle2(urun1.Adi, urun1.Aciklama, urun1.Fiyati);
 
         }
+
+
     }
 }
